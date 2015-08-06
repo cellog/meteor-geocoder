@@ -1,5 +1,5 @@
 Package.describe({
-  name: "aldeed:geocoder",
+  name: "cellog:geocoder",
   summary: "Easy geocoding by way of the node-geocoder package",
   version: "0.3.7",
   git: "https://github.com/aldeed/meteor-geocoder.git"
